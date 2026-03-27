@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9410f03f-4457-42c3-b03d-c75ab4ed2dee" />
 # Travel Booking DApp on Stellar (Soroban)
 
 ## 📌 Project Description
