@@ -1,8 +1,7 @@
 # Travel Booking DApp on Stellar (Soroban)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d0539dc0-7ee4-49f3-8af6-722bcede2055" />
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9410f03f-4457-42c3-b03d-c75ab4ed2dee" />
+https://stellar.expert/explorer/testnet/contract/CBLY4BHLFJ2YRKD4J2TCAC56SKQO5SNR6FWCHMTB2SDL3723BPNHVSO6
 
 ## 📌 Project Description
 A decentralized travel booking application built on **Stellar Soroban smart contracts**. It allows users to book, view, and cancel travel reservations directly on-chain, ensuring transparency, immutability, and security.
